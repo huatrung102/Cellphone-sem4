@@ -1,0 +1,16 @@
+@import 'font.css';
+@import 'libs.min.css';
+@import 'mycss.css';
+
+#logocontain img{
+    width: 90px !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ul.my-ul.menu-content {
+    padding-top: 40px;
+}
+ul.my-ul.func-menu li {
+    float:right !important;
+}
